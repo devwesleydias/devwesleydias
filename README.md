@@ -1,6 +1,5 @@
 ### Olá, eu sou o Wesley Dias
 
-- 🔭 Hoje trabalho como Vigilante, estou migrando aos poucos para programação
 - 🌱 Estudando front-end na Alura
 - 😄 Pronomes: ele/dele
 
