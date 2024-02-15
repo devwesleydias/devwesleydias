@@ -1,7 +1,7 @@
 ### Olá, eu sou o Wesley Dias
 
 - 👩‍💻 Estudando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá.
-- 🤖 Estudando Engenharia Elétrica no Instituto Federal de Ciência, Tecnologia e Ensino da Bahia.
+- 🤖 Estudando Engenharia Elétrica no Instituto Federal de Educação, Ciência e Tecnologia da Bahia.
 - 😄 Pronomes: ele/dele
 
 ##
